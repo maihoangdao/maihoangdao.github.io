@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Chemical Reactions | Mai Hoang Dao</title>
+    <link>https://maihoangdao.github.io/tag/chemical-reactions/</link>
+      <atom:link href="https://maihoangdao.github.io/tag/chemical-reactions/index.xml" rel="self" type="application/rss+xml" />
+    <description>Chemical Reactions</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 01 Jul 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://maihoangdao.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>Chemical Reactions</title>
+      <link>https://maihoangdao.github.io/tag/chemical-reactions/</link>
+    </image>
+    
+    <item>
+      <title>An Extended Overview of the CLEF 2020 ChEMU Lab: Information Extraction of Chemical Reactions from Patents</title>
+      <link>https://maihoangdao.github.io/publication/1/</link>
+      <pubDate>Wed, 01 Jul 2020 00:00:00 +0000</pubDate>
+      <guid>https://maihoangdao.github.io/publication/1/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>VinAI at ChEMU 2020: An accurate system for named entity recognition in chemical reactions from patents</title>
+      <link>https://maihoangdao.github.io/publication/3/</link>
+      <pubDate>Mon, 01 Jun 2020 00:00:00 +0000</pubDate>
+      <guid>https://maihoangdao.github.io/publication/3/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

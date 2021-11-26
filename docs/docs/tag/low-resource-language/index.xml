@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Low-resource Language | Mai Hoang Dao</title>
+    <link>https://maihoangdao.github.io/tag/low-resource-language/</link>
+      <atom:link href="https://maihoangdao.github.io/tag/low-resource-language/index.xml" rel="self" type="application/rss+xml" />
+    <description>Low-resource Language</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 01 Oct 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://maihoangdao.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>Low-resource Language</title>
+      <link>https://maihoangdao.github.io/tag/low-resource-language/</link>
+    </image>
+    
+    <item>
+      <title>Intent Detection and Slot Filling for Vietnamese</title>
+      <link>https://maihoangdao.github.io/publication/8/</link>
+      <pubDate>Fri, 01 Oct 2021 00:00:00 +0000</pubDate>
+      <guid>https://maihoangdao.github.io/publication/8/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
