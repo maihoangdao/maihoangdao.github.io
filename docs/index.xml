@@ -1,22 +1,22 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Academic</title>
-    <link>https://example.com/</link>
-      <atom:link href="https://example.com/index.xml" rel="self" type="application/rss+xml" />
-    <description>Academic</description>
+    <title>Mai Hoang Dao</title>
+    <link>https://maihoangdao.github.io/</link>
+      <atom:link href="https://maihoangdao.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <description>Mai Hoang Dao</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 01 Oct 2021 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://example.com/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
-      <title>Academic</title>
-      <link>https://example.com/</link>
+      <url>https://maihoangdao.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>Mai Hoang Dao</title>
+      <link>https://maihoangdao.github.io/</link>
     </image>
     
     <item>
       <title>Intent Detection and Slot Filling for Vietnamese</title>
-      <link>https://example.com/publication/8/</link>
+      <link>https://maihoangdao.github.io/publication/8/</link>
       <pubDate>Fri, 01 Oct 2021 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publication/8/</guid>
+      <guid>https://maihoangdao.github.io/publication/8/</guid>
       <description>&lt;!-- raw HTML omitted --&gt;
 &lt;!-- raw HTML omitted --&gt;
 &lt;p&gt;Supplementary notes can be added here, including &lt;a href=&#34;https://wowchemy.com/docs/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;code, math, and images&lt;/a&gt;.&lt;/p&gt;
@@ -25,9 +25,9 @@
     
     <item>
       <title>COVID-19 Named Entity Recognition for Vietnamese</title>
-      <link>https://example.com/publication/7/</link>
+      <link>https://maihoangdao.github.io/publication/7/</link>
       <pubDate>Thu, 01 Jul 2021 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publication/7/</guid>
+      <guid>https://maihoangdao.github.io/publication/7/</guid>
       <description>&lt;!-- raw HTML omitted --&gt;
 &lt;!-- raw HTML omitted --&gt;
 &lt;p&gt;Supplementary notes can be added here, including &lt;a href=&#34;https://wowchemy.com/docs/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;code, math, and images&lt;/a&gt;.&lt;/p&gt;
@@ -36,9 +36,9 @@
     
     <item>
       <title>A novel approach for APT attack detection based on combined deep learning model</title>
-      <link>https://example.com/publication/5/</link>
+      <link>https://maihoangdao.github.io/publication/5/</link>
       <pubDate>Thu, 01 Apr 2021 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publication/5/</guid>
+      <guid>https://maihoangdao.github.io/publication/5/</guid>
       <description>&lt;!-- raw HTML omitted --&gt;
 &lt;!-- raw HTML omitted --&gt;
 &lt;p&gt;Supplementary notes can be added here, including &lt;a href=&#34;https://wowchemy.com/docs/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;code, math, and images&lt;/a&gt;.&lt;/p&gt;
@@ -47,9 +47,9 @@
     
     <item>
       <title>A Pilot Study of Text-to-SQL Semantic Parsing for Vietnamese</title>
-      <link>https://example.com/publication/6/</link>
+      <link>https://maihoangdao.github.io/publication/6/</link>
       <pubDate>Sun, 01 Nov 2020 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publication/6/</guid>
+      <guid>https://maihoangdao.github.io/publication/6/</guid>
       <description>&lt;!-- raw HTML omitted --&gt;
 &lt;!-- raw HTML omitted --&gt;
 &lt;p&gt;Supplementary notes can be added here, including &lt;a href=&#34;https://wowchemy.com/docs/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;code, math, and images&lt;/a&gt;.&lt;/p&gt;
@@ -57,21 +57,18 @@
     </item>
     
     <item>
-      <title>An example conference paper</title>
-      <link>https://example.com/publication/2/</link>
+      <title>WNUT-2020 Task 2: Identification of Informative COVID-19 English Tweets</title>
+      <link>https://maihoangdao.github.io/publication/2/</link>
       <pubDate>Sun, 01 Nov 2020 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publication/2/</guid>
-      <description>&lt;!-- raw HTML omitted --&gt;
-&lt;!-- raw HTML omitted --&gt;
-&lt;p&gt;Supplementary notes can be added here, including &lt;a href=&#34;https://wowchemy.com/docs/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;code, math, and images&lt;/a&gt;.&lt;/p&gt;
-</description>
+      <guid>https://maihoangdao.github.io/publication/2/</guid>
+      <description></description>
     </item>
     
     <item>
       <title>APT attack detection based on flow network analysis techniques using deep learning</title>
-      <link>https://example.com/publication/4/</link>
+      <link>https://maihoangdao.github.io/publication/4/</link>
       <pubDate>Wed, 07 Oct 2020 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publication/4/</guid>
+      <guid>https://maihoangdao.github.io/publication/4/</guid>
       <description>&lt;!-- raw HTML omitted --&gt;
 &lt;!-- raw HTML omitted --&gt;
 &lt;p&gt;Supplementary notes can be added here, including &lt;a href=&#34;https://wowchemy.com/docs/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;code, math, and images&lt;/a&gt;.&lt;/p&gt;
@@ -80,9 +77,9 @@
     
     <item>
       <title>An Extended Overview of the CLEF 2020 ChEMU Lab: Information Extraction of Chemical Reactions from Patents</title>
-      <link>https://example.com/publication/1/</link>
+      <link>https://maihoangdao.github.io/publication/1/</link>
       <pubDate>Wed, 01 Jul 2020 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publication/1/</guid>
+      <guid>https://maihoangdao.github.io/publication/1/</guid>
       <description>&lt;!-- raw HTML omitted --&gt;
 &lt;!-- raw HTML omitted --&gt;
 &lt;p&gt;Supplementary notes can be added here, including &lt;a href=&#34;https://wowchemy.com/docs/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;code, math, and images&lt;/a&gt;.&lt;/p&gt;
@@ -91,9 +88,9 @@
     
     <item>
       <title>VinAI at ChEMU 2020: An accurate system for named entity recognition in chemical reactions from patents</title>
-      <link>https://example.com/publication/3/</link>
+      <link>https://maihoangdao.github.io/publication/3/</link>
       <pubDate>Mon, 01 Jun 2020 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publication/3/</guid>
+      <guid>https://maihoangdao.github.io/publication/3/</guid>
       <description>&lt;!-- raw HTML omitted --&gt;
 &lt;!-- raw HTML omitted --&gt;
 &lt;p&gt;Supplementary notes can be added here, including &lt;a href=&#34;https://wowchemy.com/docs/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;code, math, and images&lt;/a&gt;.&lt;/p&gt;
@@ -102,9 +99,9 @@
     
     <item>
       <title></title>
-      <link>https://example.com/admin/config.yml</link>
+      <link>https://maihoangdao.github.io/admin/config.yml</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://example.com/admin/config.yml</guid>
+      <guid>https://maihoangdao.github.io/admin/config.yml</guid>
       <description></description>
     </item>
     

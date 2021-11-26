@@ -1,22 +1,22 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Patents | Academic</title>
-    <link>https://example.com/tag/patents/</link>
-      <atom:link href="https://example.com/tag/patents/index.xml" rel="self" type="application/rss+xml" />
+    <title>Patents | Mai Hoang Dao</title>
+    <link>https://maihoangdao.github.io/tag/patents/</link>
+      <atom:link href="https://maihoangdao.github.io/tag/patents/index.xml" rel="self" type="application/rss+xml" />
     <description>Patents</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 01 Jun 2020 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://example.com/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <url>https://maihoangdao.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
       <title>Patents</title>
-      <link>https://example.com/tag/patents/</link>
+      <link>https://maihoangdao.github.io/tag/patents/</link>
     </image>
     
     <item>
       <title>VinAI at ChEMU 2020: An accurate system for named entity recognition in chemical reactions from patents</title>
-      <link>https://example.com/publication/3/</link>
+      <link>https://maihoangdao.github.io/publication/3/</link>
       <pubDate>Mon, 01 Jun 2020 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publication/3/</guid>
+      <guid>https://maihoangdao.github.io/publication/3/</guid>
       <description>&lt;!-- raw HTML omitted --&gt;
 &lt;!-- raw HTML omitted --&gt;
 &lt;p&gt;Supplementary notes can be added here, including &lt;a href=&#34;https://wowchemy.com/docs/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;code, math, and images&lt;/a&gt;.&lt;/p&gt;
