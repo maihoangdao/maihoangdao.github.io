@@ -18,14 +18,14 @@ bio: My research interests include spoken language understanding in low-resource
 
 # Interests to show in About widget
 interests:
-  - Spoken Language Understanding
+  - Spoken Language and Speech Processing
   - Low-resource Language
   - Multilingual NLP
 
 # Education to show in About widget
 education:
   courses:
-    - course: B.Eng. in Information Technology
+    - course: B.Eng. in Information Technology (ranked 1st/1790)
       institution: Posts and Telecommunications Institute of Technology (PTIT), Vietnam
       year: 2022
     - course: Erasmus+ Mobility Exchange Program
