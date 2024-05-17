@@ -12,4 +12,3 @@ jobs:
         with:
           feed-url: https://wowchemy.com/blog/index.xml
           readme-section: news
-          node-version: '20.x'
