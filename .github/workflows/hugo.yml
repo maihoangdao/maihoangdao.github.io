@@ -48,20 +48,20 @@ jobs:
               - name: Setup Pages
               id: pages
               uses: actions/configure-pages@v3
-# Quarto
-      - name: Install quarto
-        uses: quarto-dev/quarto-actions/setup@v2
+# # Quarto
+#       - name: Install quarto
+#         uses: quarto-dev/quarto-actions/setup@v2
 
-      - name: quarto render
-        run: |
-          for f in content/post/*/*.qmd; do
-            echo "\n\n Render $f \n\n "
-            quarto render $f
-          done
-      - name: Upload quarto pages
-        uses: actions/upload-pages-artifact@v1
-        with:
-          path: content/post
+#       - name: quarto render
+#         run: |
+#           for f in content/post/*/*.qmd; do
+#             echo "\n\n Render $f \n\n "
+#             quarto render $f
+#           done
+#       - name: Upload quarto pages
+#         uses: actions/upload-pages-artifact@v1
+#         with:
+#           path: content/post
 ## Build
       - name: Build with Hugo
         env:
