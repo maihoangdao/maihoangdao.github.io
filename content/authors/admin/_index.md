@@ -15,7 +15,7 @@ organizations:
 
 # Short bio (displayed in user profile at end of posts)
 bio: 
-# My research interests include spoken language understanding in low-resource languages and multilingual NLP.
+ My research interests include conversational features, cognition and behavior in speech processing and SLU.
 
 # Interests to show in About widget
 interests:
@@ -58,7 +58,7 @@ social:
     link: https://www.linkedin.com/in/mai-hoang-dao-8786a1186/
   - icon: cv
     icon_pack: ai
-    link: uploads/MaiHoangDao_CV.pdf
+    link: uploads/MaiHoangDao_resume.pdf
 # Link to a PDF of your resume/CV.
 # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.toml`,
 # and uncomment the lines below.
@@ -69,7 +69,8 @@ email: ""
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 ---
+Update May 2024 – I am seeking internship opportunities for the upcoming winter or next summer. Feel free to get in touch and discuss!
 
 I’m a second year Ph.D candidate at the [University of Edinburgh](https://www.ed.ac.uk/)’s [Centre for Speech Technology Research](https://www.cstr.ed.ac.uk/) and [Institute for Language, Cognition and Computation](https://web.inf.ed.ac.uk/ilcc), working with [Prof. Peter Bell](https://homepages.inf.ed.ac.uk/pbell1/) and [Dr. Catherine Lai](https://homepages.inf.ed.ac.uk/clai/). Prior to this, I spent nearly three years as a research intern in Natural Language Processing at [VinAI Research](https://www.vinai.io/) mentored by [Dr. Dat Quoc Nguyen](https://datquocnguyen.github.io/). 
 
-I am enthusiastic about how conversational features of speech such as laughter, disfluency, and more, play a role in conveying meaning and influencing human cognitive processes in both "written" and "spoken" scenarios. By studyinng these features, my main goal is to enriching our understanding of human communication, thereby fostering advancements in human-machine interactions.
+I am enthusiastic about how conversational features of speech such as laughter, disfluency, and more, play a role in conveying meaning and influencing human cognitive processes in both "written" and "spoken" speech contexts. By studyinng these features, my main goal is to enriching our understanding of human communication, thereby fostering advancements in human-machine interactions.
